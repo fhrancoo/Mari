@@ -166,3 +166,13 @@ body::-webkit-scrollbar-thumb {
     padding: 1rem;
     border: 3px white dashed;
 }
+
+.list-icons li svg {
+ fill: #d1d4d8;
+ width: 2rem;
+}
+
+.list-icons li svg:hover {
+    fill: #9212c7;
+    cursor: pointer;
+}
